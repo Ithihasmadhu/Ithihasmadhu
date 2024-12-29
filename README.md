@@ -34,6 +34,30 @@ I'm a passionate **Python Developer** with a strong background in **JavaScript**
 
 ---
 
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ithihasmadhu&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ithihasmadhu&theme=radical)
+
+---
+
+## 📅 Commit Activity
+
+![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Ithihasmadhu&theme=radical)
+
+---
+
+## 🏆 Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ithihasmadhu&theme=radical)
+
+---
+
 ## 🔗 Links
 
 - 📚 [My Repositories](https://github.com/Ithihasmadhu?tab=repositories)
