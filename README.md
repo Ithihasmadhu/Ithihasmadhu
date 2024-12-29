@@ -30,13 +30,13 @@ I'm a passionate **Python Developer** with a strong background in **JavaScript**
 
 ## 📈 GitHub Stats
 
-![Ithihasmadhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ithihasmadhu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Ithihasmadhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ithihasmadhu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&include_private=true)
 
 ---
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ithihasmadhu&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ithihasmadhu&layout=compact&theme=radical&include_private=true)
 
 ---
 
