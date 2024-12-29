@@ -42,6 +42,12 @@
 
 ###
 
+### Discord Profile
+![Ithihas' Discord Avatar](https://cdn.discordapp.com/avatars/YOUR_DISCORD_ID/YOUR_AVATAR.png)
+
+**Username**: Ithihas#1234  
+**Status**: Online (or whatever your current status is)
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ithihasmadhu/Ithihasmadhu/output/snake.svg" alt="Snake animation" />
