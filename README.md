@@ -42,11 +42,9 @@
 
 ###
 
-### Discord Profile
-![Ithihas' Discord Avatar](https://cdn.discordapp.com/avatars/YOUR_DISCORD_ID/YOUR_AVATAR.png)
-
-**Username**: Ithihas#1234  
-**Status**: Online (or whatever your current status is)
+<a href="https://top.gg/bot/1170016414774591590">
+  <img src="https://top.gg/api/widget/1170016414774591590.svg">
+</a>
 
 <br clear="both">
 
