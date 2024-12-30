@@ -42,9 +42,6 @@
 
 ###
 
-<a href="https://top.gg/bot/1170016414774591590">
-  <img src="https://top.gg/api/widget/1170016414774591590.svg">
-</a>
 
 <br clear="both">
 
