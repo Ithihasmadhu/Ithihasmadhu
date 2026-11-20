@@ -15,7 +15,13 @@ I enjoy building things, experimenting with new technologies, and turning ideas 
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,html,css,cs,tensorflow,flask)](https://skillicons.dev)
 
-## Github Stats ⚡
+<h2>Github Metrics</h2>
+
+<picture>
+  <img src="./github-metrics.svg" alt="GitHub Metrics">
+</picture>
+
+## Github Stats
 
 ![](https://komarev.com/ghpvc/?username=Ithihasmadhu&style=for-the-badge&color=orange)
 
